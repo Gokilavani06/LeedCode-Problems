@@ -1,6 +1,6 @@
 package com.leedcode.arrays;
 
-public class findMedianSortedArrays {
+public class FindMedianSortedArrays {
 
 	public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 		int i = nums1.length;
